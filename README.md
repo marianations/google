@@ -8,7 +8,19 @@
 git clone https://github.com/marianations/google.git
 
 
-* instalar os pacotes:
+**Pré requisitos:
+
+Python 3.6+
+
+Selenium (iremos instalar com o PIP)
+
+Behave (iremos instalar com o PIP)
+
+
+
+*Instalando o Selenium e o Behave
+
+execute o comando abaixo no seu terminal:
 
 from selenium import webdriver
 
