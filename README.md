@@ -8,6 +8,15 @@
 git clone https://github.com/marianations/google.git
 
 
+* instalar os pacotes:
+
+from selenium import webdriver
+
+from behave import given, when, then
+
+
+
+
 ** Para executar o teste entre na pasta do projeto pelo terminal e digite o comando behave bdd 
 
 
