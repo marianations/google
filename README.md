@@ -8,6 +8,7 @@
 git clone https://github.com/marianations/google.git
 
 
+
 **Pré requisitos:
 
 Python 3.6+
@@ -18,6 +19,7 @@ Behave (iremos instalar com o PIP)
 
 
 
+
 *Instalando o Selenium e o Behave
 
 execute o comando abaixo no seu terminal:
@@ -25,6 +27,7 @@ execute o comando abaixo no seu terminal:
 from selenium import webdriver
 
 from behave import given, when, then
+
 
 
 
